@@ -15,9 +15,13 @@ body {
   margin: 30px auto;
   overflow: auto;
   min-height: 300px;
-  border: 1px solid steelblue;
+  border: 3px solid #9999FF;
   padding: 30px;
   border-radius: 5px;
+  background-color: #CCCCFF;
+  opacity: 1;
+  background-image: radial-gradient(white 0.8500000000000001px, #CCCCFF 0.8500000000000001px);
+  background-size: 17px 17px;
 }
 
 .header {
@@ -29,7 +33,7 @@ body {
 
 .btn {
   display: inline-block;
-  background: #000;
+  background: #666699;
   color: #fff;
   border: none;
   padding: 10px 20px;
@@ -55,14 +59,14 @@ body {
 }
 
 .task {
-  background: #f4f4f4;
+  background: whitesmoke;
   margin: 5px;
   padding: 10px 20px;
   cursor: pointer;
 }
 
 .task.reminder {
-  border-left: 5px solid green;
+  border-left: 7px solid #FF99CC;
 }
 
 .task h3 {

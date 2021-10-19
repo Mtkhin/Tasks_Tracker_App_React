@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "To do React crash course",
+      "day": "Oct 9th",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Drawing Pixel Art",
+      "day": "Oct 20th",
+      "reminder": true
+    },
+    {
+      "text": "to reward myself a cup of coffee",
+      "day": "oct 30th",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
